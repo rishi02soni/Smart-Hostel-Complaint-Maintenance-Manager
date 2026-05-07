@@ -4,7 +4,7 @@ A Java OOP based console project designed for hostels, PGs, and student accommod
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Managing hostel maintenance manually is slow and inefficient. This project digitizes the complaint system using Java Object-Oriented Programming concepts.
 
