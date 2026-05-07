@@ -2,7 +2,7 @@
 
 A Java OOP based console project designed for hostels, PGs, and student accommodations where students can register complaints such as electricity issues, water leakage, fan repair, WiFi problems, etc. Admin can manage and resolve complaints efficiently.
 
----
+--- 
 
 ##  Project Overview
 
