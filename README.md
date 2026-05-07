@@ -22,7 +22,7 @@ Admin can:
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Student Complaint Registration  
 ✅ Admin Complaint Management  
