@@ -1,5 +1,5 @@
 public class PlumbingComplaint extends Complaint {
-
+ 
     public PlumbingComplaint(int id, String issue) {
         super(id, issue);
     }
