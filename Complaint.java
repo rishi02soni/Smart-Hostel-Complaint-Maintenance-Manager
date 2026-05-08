@@ -2,7 +2,7 @@ public class Complaint {
     protected int complaintId;
     protected String issue;
     protected String status;
-
+ 
     public Complaint(int complaintId, String issue) {
         this.complaintId = complaintId;
         this.issue = issue;
